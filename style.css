@@ -191,7 +191,7 @@ body{
         float:left;
         color:#fff;
         text-align:center;
-        min-width:800px;
+        min-width: 667px;
     }
     #time h1{
         font-size:160px;
@@ -241,6 +241,7 @@ body{
     }
     #click_more{
         height:500px;
+        min-width:1000px;
     }
     #click_more div{
         width:33.3%;
@@ -281,6 +282,7 @@ body{
     #last_part{
     height:600px;
     margin-top:100px;
+    min-width:1000px;
     }
     #last_part h3{
      text-align:center;
@@ -299,6 +301,7 @@ body{
     width:80%;
     margin:90px auto 50px;
     height:400px;
+    min-width:1000px;
     }
     #agreement_left{
         float:left;
@@ -352,6 +355,7 @@ body{
         background-color:#33363F; 
         text-align:center;
         color:#fff;
+        min-width: 800px;
     }
     .submit_white{
         background-color: #6F6F77;
