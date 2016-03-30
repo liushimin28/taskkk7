@@ -352,6 +352,7 @@ body{
         background-color:#33363F; 
         text-align:center;
         color:#fff;
+        min-width: 800px;
     }
     .submit_white{
         background-color: #6F6F77;
